@@ -36,6 +36,7 @@ as a manufacturing hub for small electronics.
 <!--
 ➡️ [more blog posts...](indirizzo blog)
 -->
+<hr>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AevumElectronics&count_private=true&theme=tokyonight&showicons=true)]()
 
 [website]: indirizzo
