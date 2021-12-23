@@ -17,25 +17,6 @@ as a manufacturing hub for small electronics.
 [<img align="left" alt="Aevum Electronics | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-
-
-
-<!--### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-<!--
-➡️ [more videos...](https://youtube.com/channel/UCYNVZHemGbQInCFgvvXBJDg/videos)
-
-
-### 📕 Latest Blog Posts
--->
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-<!--
-➡️ [more blog posts...](indirizzo blog)
--->
 <br>
 <hr>
 <br>
