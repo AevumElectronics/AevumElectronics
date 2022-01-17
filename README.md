@@ -12,7 +12,7 @@ as a manufacturing hub for small electronics.
 
 ### Connect with me:
 
-[<img align="left" alt="Aevum Electronics | WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />][website]
+[<img align="left" alt="Aevum Electronics | WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/atom.svg" />][website]
 [<img align="left" alt="Aevum Electronics | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Aevum Electronics | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
