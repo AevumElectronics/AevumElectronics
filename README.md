@@ -2,10 +2,8 @@
 
 
 
-### Hi there, I'm Aevum Electronics👋 
-Aevum Electronics is our first step as a brand. 
-We want to put Italy and Europe on the map
-as a manufacturing hub for small electronics.
+### Hi there, I'm Aevum👋 
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aevum88?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAevum88&screen_name=Aevum88)
 
